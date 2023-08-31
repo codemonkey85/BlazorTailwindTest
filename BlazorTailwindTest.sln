@@ -5,6 +5,12 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorTailwindTest", "BlazorTailwindTest\BlazorTailwindTest.csproj", "{759FC3FA-1B89-4E2A-A18F-534291CD912C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{46342553-5776-4AC7-A8DE-511EFA12BAEA}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		global.json = global.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
